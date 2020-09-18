@@ -1,5 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to iData1011 GitHub Pages
 
+~ SOON ~
+
+<!--
 You can use the [editor on GitHub](https://github.com/iData1011/iData1011.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -35,3 +38,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
